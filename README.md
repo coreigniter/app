@@ -1,0 +1,2 @@
+# app
+CoreIgniter Application Skeleton
